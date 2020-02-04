@@ -1,0 +1,2 @@
+00 05 * * * python /fledging/projects/min_hdl/code/folderCreation.py
+02 05 * * * . /fledging/projects/min_hdl/minHdlEnv/bin/activate && python /fledging/projects/min_hdl/code/AMZCrawllerv2.py
