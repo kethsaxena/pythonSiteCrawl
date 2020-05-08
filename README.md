@@ -8,4 +8,4 @@ LANGUAGE: Python 3
 
 
 INPUT: asinList
-OUTPUT:
+OUTPUT: AMZ2********.csv
